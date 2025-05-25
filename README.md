@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo Summary Assistant
 
 A full-stack application to manage todos, generate AI summaries, and send them to Slack.
@@ -21,3 +22,6 @@ A full-stack application to manage todos, generate AI summaries, and send them t
 
 1. Clone the repository
 2. Install dependencies:
+=======
+# Todo-summary-assistant
+>>>>>>> 353ac0638dbdcfb9cd468f4245ab6aaa23c69b44
